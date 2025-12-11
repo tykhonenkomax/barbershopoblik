@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/barbershopRK/static/css/main.b81de752.css",
+    "main.js": "/barbershopRK/static/js/main.db9f0cd2.js",
+    "static/media/banka.jpg": "/barbershopRK/static/media/banka.14127d945678cb3e5861.jpg",
+    "index.html": "/barbershopRK/index.html",
+    "main.b81de752.css.map": "/barbershopRK/static/css/main.b81de752.css.map",
+    "main.db9f0cd2.js.map": "/barbershopRK/static/js/main.db9f0cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81de752.css",
+    "static/js/main.db9f0cd2.js"
+  ]
+}
