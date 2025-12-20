@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/barbershopoblik/static/css/main.b81de752.css",
-    "main.js": "/barbershopoblik/static/js/main.0c848fae.js",
+    "main.js": "/barbershopoblik/static/js/main.d3b3fe0d.js",
     "static/media/banka.jpg": "/barbershopoblik/static/media/banka.14127d945678cb3e5861.jpg",
     "index.html": "/barbershopoblik/index.html",
     "main.b81de752.css.map": "/barbershopoblik/static/css/main.b81de752.css.map",
-    "main.0c848fae.js.map": "/barbershopoblik/static/js/main.0c848fae.js.map"
+    "main.d3b3fe0d.js.map": "/barbershopoblik/static/js/main.d3b3fe0d.js.map"
   },
   "entrypoints": [
     "static/css/main.b81de752.css",
-    "static/js/main.0c848fae.js"
+    "static/js/main.d3b3fe0d.js"
   ]
 }
